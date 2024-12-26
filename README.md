@@ -33,7 +33,7 @@ A comprehensive dashboard for analyzing aviation crash data with AI-powered risk
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pycrashai.git
+   git clone https://github.com/Mizokuiam/Aviation-Crash-AIAnalysis.git
    cd pycrashai
    ```
 
