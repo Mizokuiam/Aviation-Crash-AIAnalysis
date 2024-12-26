@@ -1,0 +1,7 @@
+{
+  "collection_interval_hours": 24,
+  "retraining_interval_days": 7,
+  "min_new_samples": 100,
+  "last_collection": "2024-12-25T23:51:53.346762",
+  "last_training": null
+}

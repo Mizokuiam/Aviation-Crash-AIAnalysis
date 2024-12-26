@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+data/raw/*
+!data/raw/.gitkeep
+models/*
+!models/.gitkeep
+*.log
+.env
+
+# MongoDB
+*.mongodb
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Cache
+__pycache__/
+.cache/
+.pytest_cache/
