@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/Mizokuiam/Aviation-Crash-AIAnalysis)
+![GitHub forks](https://img.shields.io/github/forks/Mizokuiam/Aviation-Crash-AIAnalysis)
+![GitHub issues](https://img.shields.io/github/issues/Mizokuiam/Aviation-Crash-AIAnalysis)
+![GitHub license](https://img.shields.io/github/license/Mizokuiam/Aviation-Crash-AIAnalysis)
+
 # Aviation Crash Analysis Dashboard
 
 A comprehensive dashboard for analyzing aviation crash data with AI-powered risk prediction and interactive visualizations.
