@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-01-15
+
+- Create CHANGELOG.md (647829e by Mizokuiam)
+
 ## 2025-01-14
 
 - Update API documentation (10e7a9f by Mizokuiam)
